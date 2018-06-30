@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+ 
+<suppressions>
+  <suppress checks="[a-zA-Z0-9]*" files="Main.java" />
+  <suppress checks="PackageNameCheck"/>
+  <suppress checks="FileTabCharacterCheck"/>
+  <surppess checks="MagicNumber"/>
+  <surppess checks="DesignForExtension"/>
+  <suppress checks="JavadocMethod"/>
+  <suppress checks="JavadocVariable"/>
+</suppressions>

@@ -1,0 +1,367 @@
+2018-06-29 11:36:49 INFO  SteuerungTest:21 - A new Steuerung was created
+2018-06-29 11:36:49 ERROR SteuerungTest:24 - Sample - Steuernug
+2018-06-29 11:36:49 FATAL SteuerungTest:25 - Sample - Steuerung
+2018-06-29 11:36:50 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 11:36:50 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 11:36:50 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-29 11:37:22 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 11:37:22 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 11:37:22 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-29 11:37:22 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 11:37:22 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 11:37:22 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-29 12:09:04 INFO  SteuerungTest:20 - A new Steuerung was created
+2018-06-29 12:09:04 ERROR SteuerungTest:23 - Sample - Steuernug
+2018-06-29 12:09:04 FATAL SteuerungTest:24 - Sample - Steuerung
+2018-06-29 12:09:06 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 12:09:06 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 12:09:06 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-29 12:09:38 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 12:09:38 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 12:09:38 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-29 12:09:38 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 12:09:38 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 12:09:38 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-29 12:36:08 INFO  SteuerungTest:20 - A new Steuerung was created
+2018-06-29 12:36:08 ERROR SteuerungTest:23 - Sample - Steuernug
+2018-06-29 12:36:08 FATAL SteuerungTest:24 - Sample - Steuerung
+2018-06-29 12:36:10 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 12:36:10 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 12:36:10 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-29 12:36:42 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 12:36:42 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 12:36:42 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-29 12:36:42 INFO  XMLManagerTest:33 - A new XMLManager was created
+2018-06-29 12:36:42 ERROR XMLManagerTest:36 - Sample - XMLManager
+2018-06-29 12:36:42 FATAL XMLManagerTest:37 - Sample - XMLManager
+2018-06-30 09:49:04 INFO  Steuerung:16 - A new Steuerung was created
+2018-06-30 09:49:04 ERROR Steuerung:19 - Sample - Steuernug
+2018-06-30 09:49:04 FATAL Steuerung:20 - Sample - Steuerung
+2018-06-30 09:49:06 INFO  XMLManager:34 - A new XMLManager was created
+2018-06-30 09:49:06 ERROR XMLManager:37 - Sample - XMLManager
+2018-06-30 09:49:06 FATAL XMLManager:38 - Sample - XMLManager
+2018-06-30 09:49:06 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7cd84586
+2018-06-30 09:49:07 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@30dae81
+2018-06-30 09:49:09 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1b2c6ec2
+2018-06-30 09:49:10 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4edde6e5
+2018-06-30 09:49:12 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@70177ecd
+2018-06-30 09:49:13 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1e80bfe8
+2018-06-30 09:49:15 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@66a29884
+2018-06-30 09:49:16 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4769b07b
+2018-06-30 09:49:18 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@cc34f4d
+2018-06-30 09:49:19 INFO  XMLManager:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@17a7cec2
+2018-06-30 11:33:37 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 11:33:37 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 11:33:37 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 11:33:39 INFO  XMLManager:38 - A new XMLManager was created
+2018-06-30 11:33:39 ERROR XMLManager:40 - Sample - XMLManager
+2018-06-30 11:33:39 FATAL XMLManager:41 - Sample - XMLManager
+2018-06-30 11:33:39 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4516af24
+2018-06-30 11:33:41 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4ae82894
+2018-06-30 11:33:42 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@543788f3
+2018-06-30 11:33:44 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@6d3af739
+2018-06-30 11:33:45 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1da51a35
+2018-06-30 11:33:47 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@16022d9d
+2018-06-30 11:33:48 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7e9a5fbe
+2018-06-30 11:33:50 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@44a3ec6b
+2018-06-30 11:33:51 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@71623278
+2018-06-30 11:33:53 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@768b970c
+2018-06-30 11:33:56 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@57f23557
+2018-06-30 11:33:57 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3d0f8e03
+2018-06-30 11:33:59 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@6366ebe0
+2018-06-30 11:34:00 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@44f75083
+2018-06-30 11:34:02 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2698dc7
+2018-06-30 11:34:03 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@43d7741f
+2018-06-30 11:34:05 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@17baae6e
+2018-06-30 11:34:06 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@69379752
+2018-06-30 11:34:08 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@27fe3806
+2018-06-30 11:34:09 INFO  XMLManager:105 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5f71c76a
+2018-06-30 11:38:06 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:38:06 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:38:06 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:38:07 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1ad282e0
+2018-06-30 11:38:07 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:38:07 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:38:07 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:42:54 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:42:54 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:42:54 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:42:54 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1ad282e0
+2018-06-30 11:42:54 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:42:54 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:42:54 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:43:25 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:43:25 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:43:25 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:43:25 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1ad282e0
+2018-06-30 11:43:25 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:43:25 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:43:25 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:45:01 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:45:01 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:45:01 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:45:01 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1ad282e0
+2018-06-30 11:45:01 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:45:01 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:45:01 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:48:48 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 11:48:48 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 11:48:48 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 11:48:50 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:48:50 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:48:50 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:48:50 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@587c290d
+2018-06-30 11:48:51 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4516af24
+2018-06-30 11:48:53 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4ae82894
+2018-06-30 11:48:54 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@543788f3
+2018-06-30 11:48:56 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@6d3af739
+2018-06-30 11:48:57 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1da51a35
+2018-06-30 11:48:59 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@16022d9d
+2018-06-30 11:49:00 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7e9a5fbe
+2018-06-30 11:49:02 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@44a3ec6b
+2018-06-30 11:49:03 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@71623278
+2018-06-30 11:49:06 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@543e710e
+2018-06-30 11:49:08 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@57f23557
+2018-06-30 11:49:10 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3d0f8e03
+2018-06-30 11:49:11 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@6366ebe0
+2018-06-30 11:49:13 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@44f75083
+2018-06-30 11:49:14 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2698dc7
+2018-06-30 11:49:16 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@43d7741f
+2018-06-30 11:49:17 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@17baae6e
+2018-06-30 11:49:19 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@69379752
+2018-06-30 11:49:20 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@27fe3806
+2018-06-30 11:49:22 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 11:49:22 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 11:49:22 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 11:49:23 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:49:23 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:49:23 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:49:23 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@48a242ce
+2018-06-30 11:49:25 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1e4a7dd4
+2018-06-30 11:49:26 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4f51b3e0
+2018-06-30 11:49:28 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4b9e255
+2018-06-30 11:49:29 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5e57643e
+2018-06-30 11:49:31 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@133e16fd
+2018-06-30 11:49:32 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@51b279c9
+2018-06-30 11:49:34 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1ad282e0
+2018-06-30 11:49:35 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7f416310
+2018-06-30 11:49:37 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1cab0bfb
+2018-06-30 11:49:41 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:49:41 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:49:41 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:49:41 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2473b9ce
+2018-06-30 11:49:41 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:49:41 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:49:41 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:54:42 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 11:54:42 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 11:54:42 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 11:54:43 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:54:43 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:54:43 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:54:43 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7ba18f1b
+2018-06-30 11:54:45 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2f8f5f62
+2018-06-30 11:54:46 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1068e947
+2018-06-30 11:54:48 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7dc222ae
+2018-06-30 11:54:49 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@aecb35a
+2018-06-30 11:54:51 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5fcd892a
+2018-06-30 11:54:52 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@8b87145
+2018-06-30 11:54:54 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@6483f5ae
+2018-06-30 11:54:55 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@b9afc07
+2018-06-30 11:54:57 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@382db087
+2018-06-30 11:55:00 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@44f75083
+2018-06-30 11:55:02 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2698dc7
+2018-06-30 11:55:03 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@43d7741f
+2018-06-30 11:55:05 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@17baae6e
+2018-06-30 11:55:06 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@69379752
+2018-06-30 11:55:08 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@27fe3806
+2018-06-30 11:55:09 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5f71c76a
+2018-06-30 11:55:11 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1d7acb34
+2018-06-30 11:55:12 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@48a242ce
+2018-06-30 11:55:14 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1e4a7dd4
+2018-06-30 11:55:15 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 11:55:15 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 11:55:15 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 11:55:17 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:55:17 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:55:17 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:55:17 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4f51b3e0
+2018-06-30 11:55:18 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4b9e255
+2018-06-30 11:55:20 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5e57643e
+2018-06-30 11:55:21 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@133e16fd
+2018-06-30 11:55:23 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@51b279c9
+2018-06-30 11:55:24 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1ad282e0
+2018-06-30 11:55:26 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7f416310
+2018-06-30 11:55:27 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1cab0bfb
+2018-06-30 11:55:29 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5e955596
+2018-06-30 11:55:30 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@50de0926
+2018-06-30 11:55:35 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:55:35 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:55:35 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:55:35 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2473b9ce
+2018-06-30 11:55:35 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:55:35 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:55:35 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:57:23 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 11:57:23 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 11:57:23 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 11:57:25 INFO  XMLManagerTest:38 - A new XMLManager was created
+2018-06-30 11:57:25 ERROR XMLManagerTest:40 - Sample - XMLManager
+2018-06-30 11:57:25 FATAL XMLManagerTest:41 - Sample - XMLManager
+2018-06-30 11:57:25 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@c4437c4
+2018-06-30 11:57:27 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@433c675d
+2018-06-30 11:57:28 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3f91beef
+2018-06-30 11:57:30 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1a6c5a9e
+2018-06-30 11:57:31 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@37bba400
+2018-06-30 11:57:33 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@179d3b25
+2018-06-30 11:57:34 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@254989ff
+2018-06-30 11:57:36 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5d099f62
+2018-06-30 11:57:37 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@37f8bb67
+2018-06-30 11:57:39 INFO  XMLManagerTest:104 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@49c2faae
+2018-06-30 12:28:42 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 12:28:42 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 12:28:42 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 12:28:43 INFO  XMLManagerTest:48 - A new XMLManager was created
+2018-06-30 12:28:43 ERROR XMLManagerTest:50 - Sample - XMLManager
+2018-06-30 12:28:43 FATAL XMLManagerTest:51 - Sample - XMLManager
+2018-06-30 12:28:44 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7ce3cb8e
+2018-06-30 12:28:45 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@78b66d36
+2018-06-30 12:28:47 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5223e5ee
+2018-06-30 12:28:48 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@bef2d72
+2018-06-30 12:28:50 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@69b2283a
+2018-06-30 12:28:51 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@22a637e7
+2018-06-30 12:28:53 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@6fe7aac8
+2018-06-30 12:28:54 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1d119efb
+2018-06-30 12:28:56 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@659a969b
+2018-06-30 12:28:57 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@76908cc0
+2018-06-30 12:29:01 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3ba9ad43
+2018-06-30 12:29:02 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@49d904ec
+2018-06-30 12:29:04 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@48e4374
+2018-06-30 12:29:05 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3d680b5a
+2018-06-30 12:29:07 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4b5d6a01
+2018-06-30 12:29:08 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4a22f9e2
+2018-06-30 12:29:10 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3c419631
+2018-06-30 12:29:11 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@418e7838
+2018-06-30 12:29:13 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@61230f6a
+2018-06-30 12:29:14 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3c130745
+2018-06-30 12:29:16 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 12:29:16 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 12:29:16 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 12:29:17 INFO  XMLManagerTest:48 - A new XMLManager was created
+2018-06-30 12:29:17 ERROR XMLManagerTest:50 - Sample - XMLManager
+2018-06-30 12:29:17 FATAL XMLManagerTest:51 - Sample - XMLManager
+2018-06-30 12:29:17 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@470f1802
+2018-06-30 12:29:19 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@63021689
+2018-06-30 12:29:20 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@703580bf
+2018-06-30 12:29:22 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3e92efc3
+2018-06-30 12:29:23 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1622f1b
+2018-06-30 12:29:25 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@72a7c7e0
+2018-06-30 12:29:26 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2e4b8173
+2018-06-30 12:29:28 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@70e8f8e
+2018-06-30 12:29:29 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@17046283
+2018-06-30 12:29:31 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5bd03f44
+2018-06-30 12:29:35 INFO  XMLManagerTest:48 - A new XMLManager was created
+2018-06-30 12:29:35 ERROR XMLManagerTest:50 - Sample - XMLManager
+2018-06-30 12:29:35 FATAL XMLManagerTest:51 - Sample - XMLManager
+2018-06-30 12:29:38 INFO  XMLManagerTest:114 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1a20270e
+2018-06-30 12:29:38 INFO  XMLManagerTest:48 - A new XMLManager was created
+2018-06-30 12:29:38 ERROR XMLManagerTest:50 - Sample - XMLManager
+2018-06-30 12:29:38 FATAL XMLManagerTest:51 - Sample - XMLManager
+2018-06-30 12:32:30 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 12:32:30 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 12:32:30 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 12:32:32 INFO  XMLManagerTest:50 - A new XMLManager was created
+2018-06-30 12:32:32 ERROR XMLManagerTest:52 - Sample - XMLManager
+2018-06-30 12:32:32 FATAL XMLManagerTest:53 - Sample - XMLManager
+2018-06-30 12:32:32 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7ce3cb8e
+2018-06-30 12:32:34 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@78b66d36
+2018-06-30 12:32:35 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5223e5ee
+2018-06-30 12:32:37 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@bef2d72
+2018-06-30 12:32:38 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@69b2283a
+2018-06-30 12:32:40 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@22a637e7
+2018-06-30 12:32:41 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@6fe7aac8
+2018-06-30 12:32:43 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1d119efb
+2018-06-30 12:32:44 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@659a969b
+2018-06-30 12:32:46 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@76908cc0
+2018-06-30 12:32:49 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3ba9ad43
+2018-06-30 12:32:50 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@49d904ec
+2018-06-30 12:32:52 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@48e4374
+2018-06-30 12:32:53 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3d680b5a
+2018-06-30 12:32:55 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4b5d6a01
+2018-06-30 12:32:56 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4a22f9e2
+2018-06-30 12:32:58 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3c419631
+2018-06-30 12:32:59 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@418e7838
+2018-06-30 12:33:01 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@61230f6a
+2018-06-30 12:33:02 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3c130745
+2018-06-30 12:33:04 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 12:33:04 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 12:33:04 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 12:33:06 INFO  XMLManagerTest:50 - A new XMLManager was created
+2018-06-30 12:33:06 ERROR XMLManagerTest:52 - Sample - XMLManager
+2018-06-30 12:33:06 FATAL XMLManagerTest:53 - Sample - XMLManager
+2018-06-30 12:33:06 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@470f1802
+2018-06-30 12:33:07 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@63021689
+2018-06-30 12:33:09 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@703580bf
+2018-06-30 12:33:10 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3e92efc3
+2018-06-30 12:33:12 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1622f1b
+2018-06-30 12:33:13 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@72a7c7e0
+2018-06-30 12:33:15 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2e4b8173
+2018-06-30 12:33:16 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@70e8f8e
+2018-06-30 12:33:18 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@17046283
+2018-06-30 12:33:19 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5bd03f44
+2018-06-30 12:33:24 INFO  XMLManagerTest:50 - A new XMLManager was created
+2018-06-30 12:33:24 ERROR XMLManagerTest:52 - Sample - XMLManager
+2018-06-30 12:33:24 FATAL XMLManagerTest:53 - Sample - XMLManager
+2018-06-30 12:33:26 INFO  XMLManagerTest:116 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1a20270e
+2018-06-30 12:33:26 INFO  XMLManagerTest:50 - A new XMLManager was created
+2018-06-30 12:33:26 ERROR XMLManagerTest:52 - Sample - XMLManager
+2018-06-30 12:33:26 FATAL XMLManagerTest:53 - Sample - XMLManager
+2018-06-30 12:36:28 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 12:36:28 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 12:36:28 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 12:36:30 INFO  XMLManagerTest:49 - A new XMLManager was created
+2018-06-30 12:36:30 ERROR XMLManagerTest:51 - Sample - XMLManager
+2018-06-30 12:36:30 FATAL XMLManagerTest:52 - Sample - XMLManager
+2018-06-30 12:36:30 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@7ce3cb8e
+2018-06-30 12:36:32 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@78b66d36
+2018-06-30 12:36:33 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5223e5ee
+2018-06-30 12:36:35 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@bef2d72
+2018-06-30 12:36:36 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@69b2283a
+2018-06-30 12:36:38 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@22a637e7
+2018-06-30 12:36:39 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@6fe7aac8
+2018-06-30 12:36:41 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1d119efb
+2018-06-30 12:36:42 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@659a969b
+2018-06-30 12:36:44 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@76908cc0
+2018-06-30 12:36:47 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3ba9ad43
+2018-06-30 12:36:48 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@49d904ec
+2018-06-30 12:36:50 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@48e4374
+2018-06-30 12:36:51 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3d680b5a
+2018-06-30 12:36:53 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4b5d6a01
+2018-06-30 12:36:54 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@4a22f9e2
+2018-06-30 12:36:56 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3c419631
+2018-06-30 12:36:57 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@418e7838
+2018-06-30 12:36:59 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@61230f6a
+2018-06-30 12:37:00 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3c130745
+2018-06-30 12:37:02 INFO  SteuerungTest:16 - A new Steuerung was created
+2018-06-30 12:37:02 ERROR SteuerungTest:19 - Sample - Steuernug
+2018-06-30 12:37:02 FATAL SteuerungTest:20 - Sample - Steuerung
+2018-06-30 12:37:03 INFO  XMLManagerTest:49 - A new XMLManager was created
+2018-06-30 12:37:03 ERROR XMLManagerTest:51 - Sample - XMLManager
+2018-06-30 12:37:03 FATAL XMLManagerTest:52 - Sample - XMLManager
+2018-06-30 12:37:03 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@470f1802
+2018-06-30 12:37:05 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@63021689
+2018-06-30 12:37:06 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@703580bf
+2018-06-30 12:37:08 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@3e92efc3
+2018-06-30 12:37:09 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1622f1b
+2018-06-30 12:37:11 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@72a7c7e0
+2018-06-30 12:37:12 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@2e4b8173
+2018-06-30 12:37:14 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@70e8f8e
+2018-06-30 12:37:15 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@17046283
+2018-06-30 12:37:17 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@5bd03f44
+2018-06-30 12:37:22 INFO  XMLManagerTest:49 - A new XMLManager was created
+2018-06-30 12:37:22 ERROR XMLManagerTest:51 - Sample - XMLManager
+2018-06-30 12:37:22 FATAL XMLManagerTest:52 - Sample - XMLManager
+2018-06-30 12:37:24 INFO  XMLManagerTest:115 -  XML sequenze written: com.jamesmurty.utils.XMLBuilder@1a20270e
+2018-06-30 12:37:24 INFO  XMLManagerTest:49 - A new XMLManager was created
+2018-06-30 12:37:24 ERROR XMLManagerTest:51 - Sample - XMLManager
+2018-06-30 12:37:24 FATAL XMLManagerTest:52 - Sample - XMLManager
